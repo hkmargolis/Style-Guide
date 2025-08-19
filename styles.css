@@ -1,0 +1,36 @@
+
+
+.colors {
+  display: inline;
+}
+
+.font1 {
+  font-family: Rubik Moonrocks;
+}
+
+.font2 {
+  font-family: Creepster;
+}
+
+.font3 {
+  font-family: Eater;
+}
+
+.fontname {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.colors, .fonts, .styles {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  padding: 10px;
+}
